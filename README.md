@@ -40,7 +40,7 @@ This Python script fetches and displays the latest GitHub events for a specified
 
 - Usage: Run the script with the desired GitHub username:
     ```bash
-    python3 github_events.py <username>
+    python3 gh-activity.py <username>
     ```
 
 </details>
